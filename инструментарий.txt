@@ -1,0 +1,8 @@
+для удаления надписей с картинки:
+https://fe-snapedit.vercel.app/ru/remove-text
+
+для удаления фона картинки:
+https://remove-bg.ai/ru
+
+для повышения качества картинки:
+https://airbrush.com/ru/image-enhancer
